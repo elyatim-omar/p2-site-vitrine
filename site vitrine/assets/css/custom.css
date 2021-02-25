@@ -1,0 +1,70 @@
+.list-group {
+    float: left;
+    margin-left: 80px;
+    margin-top: 80px;
+    
+ }
+ .list-group1{
+     float: left;
+ }
+ 
+ .dd {
+     float:right;    
+     margin-right: 50px; 
+ margin-top: 30px;
+  margin-bottom:20px ;
+  width: auto;
+
+}
+ 
+ .bb {
+     margin-top: 0px;
+ }
+ 
+ .list-group-item {
+     color: rgb(0, 0, 0);
+     text-align: center;
+     border-radius: 0%;
+     border-color: red;
+     border-width: 0px;
+     background-color: rgba(201, 201, 201, 0.623);
+    
+ }
+
+ .list-group-item:hover {
+     color: red;
+ }
+
+ .text-left{
+     text-align: center;
+ }
+ 
+
+#templatemo_main_nav {
+    margin-left: 550px;
+    padding-right: 3px;
+}
+.bg-light {
+     margin-left: 300px;
+     margin-right: 35px;
+     padding-top: 0px;
+
+}
+.adress{
+text-align:right ;
+padding-right: 80px;
+}
+.logoposi{
+text-align:center;
+
+}
+.number{
+    text-align: center;
+}
+.email{
+    padding-left: 80px;
+}
+.position{
+    float: right;
+    
+}
